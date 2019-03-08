@@ -1,0 +1,1 @@
+This ChemistryBot tells the atomic number and chemical symbol of elements of periodic table.
